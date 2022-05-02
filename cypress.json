@@ -1,0 +1,14 @@
+{
+    "viewportWidth": 1024,
+    "viewportHeight": 768,
+    "defaultCommandTimeout": 10000,
+    "chromeWebSecurity": false,
+    "baseUrl": "https://www.saucedemo.com/",
+    "testFiles": ["**/*.{feature,features}"],
+    "env": {
+        "fixturesBaseDir": "test_data_files/"
+    }
+    
+}
+
+
